@@ -1,4 +1,4 @@
-# Rezerwacja-hoteli
+# Rezerwacja hoteli
 
 Projekt grupowy z przedmiotu *Eksploracja danych* stworzony w języku **R** przy użyciu **Quarto**.
 
